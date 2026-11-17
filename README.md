@@ -1,8 +1,14 @@
 # Jeremy Legere
 
-Python tinkerer. I have a day job in data and application development, and I keep my personal projects here instead of leaving them on my own PC. More functionality is coming to these repos over time.
+Python developer and technology tinkerer. I work in data and application development, with personal projects spanning software development, data tooling, algorithmic development and mathematically driven simulation engines.
 
-I set the requirements and domain rules, and I build with AI coding assistants under my direction.
+My approach starts with the architecture, domain knowledge and underlying mechanics. I develop the concepts, define the requirements, explore the mathematics and algorithms, and direct implementation from design through to testing and validation.
+
+AI-assisted development has significantly expanded what I can build. I use different tools for mathematical exploration, algorithm development, Python implementation, code review and visual creation. However, the architecture, technical direction, design decisions, testing methodology and ownership of the finished products remain mine.
+
+I am particularly interested in turning complex ideas and real-world systems into working software, using mathematics, algorithms and iterative engineering to get beyond what conventional application development might achieve.
+
+My projects are developed continuously, with more functionality coming over time.
 
 Brisbane, Australia (originally Amherst, Nova Scotia). [LinkedIn](https://www.linkedin.com/in/jeremylegere/)
 
