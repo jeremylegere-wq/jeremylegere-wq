@@ -12,6 +12,15 @@ My projects are developed continuously, with more functionality coming over time
 
 Brisbane, Australia (originally Amherst, Nova Scotia). [LinkedIn](https://www.linkedin.com/in/jeremylegere/)
 
+## Featured
+
+| | | |
+|---|---|---|
+| [![hockey-manager](https://raw.githubusercontent.com/jeremylegere-wq/hockey-manager/main/docs/screenshots/office.png)](https://github.com/jeremylegere-wq/hockey-manager) | [![amherst-run](https://raw.githubusercontent.com/jeremylegere-wq/amherst-run/main/docs/images/downtown.png)](https://github.com/jeremylegere-wq/amherst-run) | [![field-service-dashboard](https://raw.githubusercontent.com/jeremylegere-wq/field-service-dashboard/main/docs/images/01-overview.png)](https://github.com/jeremylegere-wq/field-service-dashboard) |
+| **[hockey-manager](https://github.com/jeremylegere-wq/hockey-manager)**<br>Single-player hockey GM simulation | **[amherst-run](https://github.com/jeremylegere-wq/amherst-run)**<br>Retro open-world driving game on real map data | **[field-service-dashboard](https://github.com/jeremylegere-wq/field-service-dashboard)**<br>[Live demo](https://jeremylegere-wq.github.io/field-service-dashboard/) of a Power BI suite, synthetic data |
+| [![pm-planner](https://raw.githubusercontent.com/jeremylegere-wq/pm-planner/main/docs/images/dashboard.png)](https://github.com/jeremylegere-wq/pm-planner) | [![hockey-night](https://raw.githubusercontent.com/jeremylegere-wq/hockey-night/main/docs/images/standings.png)](https://github.com/jeremylegere-wq/hockey-night) | [![Stock Planner](https://raw.githubusercontent.com/jeremylegere-wq/Stock-Order-Forecaster/main/docs/images/order-sheet.png)](https://github.com/jeremylegere-wq/Stock-Order-Forecaster) |
+| **[pm-planner](https://github.com/jeremylegere-wq/pm-planner)**<br>Maintenance planner and Gantt | **[hockey-night](https://github.com/jeremylegere-wq/hockey-night)**<br>NHL dashboard for a spare TV | **[Stock-Order-Forecaster](https://github.com/jeremylegere-wq/Stock-Order-Forecaster)**<br>Order planner for small shops |
+
 ## Repo index
 
 Status key: **stable** = working and checked, **beta** = works but not fully verified, **early** = just uploaded, expect more work.
@@ -53,5 +62,5 @@ Status key: **stable** = working and checked, **beta** = works but not fully ver
 
 ## To do
 
-- Add READMEs, tests and CI to the remaining early repos (field-service-dashboard, pm-planner, Stock-Order-Forecaster, My-Media-Wiki-Tool).
+- Add tests and CI to the remaining early repos (field-service-dashboard, pm-planner, My-Media-Wiki-Tool).
 - Verify hockey-night against live data.
